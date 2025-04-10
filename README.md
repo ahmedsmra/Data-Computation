@@ -2,7 +2,7 @@
 
 This repository contains the final project for the **Data Computation** course at the Faculty of Computers and Data Science, Alexandria University.
 
-## 👨‍💻 Team Contribution
+## 👬 Team Contribution
 
 I worked on this project alongside my colleagues.  
 My main contributions were focused on the following:
